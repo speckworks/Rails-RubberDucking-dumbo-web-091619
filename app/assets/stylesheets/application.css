@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ body {
+    background-image: url("https://mrcolley.files.wordpress.com/2014/07/rubber-ducky-2.jpg");
+  }
+

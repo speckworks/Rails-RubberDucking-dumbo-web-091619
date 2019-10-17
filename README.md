@@ -7,8 +7,8 @@ Help! As more and more students enroll in Flatiron, more rubber duckys are neede
 Every rubber `duck` should be created with a `name` and a `description` and every `student` should be created with a `name` and a `mod`. And since Flatiron is all about love, when a duck is created, it needs to be created with a student. After all, a duck should never be without an owner! Consider how you would handle this in the seed file. (Hint: Consider using the `sample` method) Make sure you handle your migrations appropriately!
 
 With this website, a user should be:
-
-* Able to see a list of all the students
+<!-- 
+* Able to see a list of all the students -->
 
 * Able to see a single student and all the ducks owned by that student
 
